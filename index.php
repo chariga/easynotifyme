@@ -30,6 +30,7 @@ echo '
         font-size: 2.5rem;
         line-height: 1.1;
         margin: 0;
+        color: #ffffff
       }
       @media screen and (max-width: 480px) {
         h1 {
