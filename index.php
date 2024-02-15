@@ -47,9 +47,20 @@ echo '
       p {
         margin: 1rem 0 0 0;
       }
+      video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        min-width: 100%;
+        min-height: 100%;
+        z-index:-100;
+      }
     </style>
   </head>
   <body>
+  <video autoplay muted loop>
+  <source src="background.mp4" type="video/mp4">
+  </video>
     <main>
       <h1>EasyNotifyMe</h1>
       <p>Our website is under construction.</p>
