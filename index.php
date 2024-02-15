@@ -13,7 +13,7 @@ echo '
       body {
         background-color: #fff;
         background: radial-gradient(circle at center, #fff 0%, #f8f8f8 75%, #ebebeb 100%);
-        color: #222;
+        color: #fff;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
         font-size: 1rem;
         line-height: 1.5;
